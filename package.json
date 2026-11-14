@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@upstash/redis": "^1.41.0",
     "bcryptjs": "^3.0.3",
     "next": "16.4.6",
     "next-auth": "^4.24.15",
